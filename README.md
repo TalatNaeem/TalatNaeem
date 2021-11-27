@@ -19,4 +19,4 @@ Programming and development projects. I have also done work on machine/deep lear
 -->
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" />][linkedin]
+[<img alt="Linkedin" width="40px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" />](https://www.linkedin.com/in/talat-naeem-12b9801b3/)
