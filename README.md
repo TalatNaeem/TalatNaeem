@@ -2,7 +2,7 @@
 I am a Software Engineer. Passionate and enthusiast to explore my field. I love to work on development also like to commit and collaborate on GitHub. 😊
 
 ### 🔭 **I’m currently working on** ...
-I along with my supervisor and team are crrently working on a bilingual translator using Transformer(Deep Learning NN Model) for translation from URDU to ENGLISH and vise versa using Python as programming language following the features of Natural Language Processing.
+I along with my supervisor and team are crrently working on a bilingual translator using Transformer(Deep Learning NN Model) for translation from URDU to ENGLISH and vise versa using Python as programming language following the features of Natural Language Processing. For further details you can visit <a href="https://github.com/TalatNaeem/FYP-WiseTranslator" target="_blank" rel="noopener noreferrer">here</a>
 
 ### 👯 **I’m looking to collaborate on** ...
 Programming and development projects. I have also done work on machine/deep learning projects and like to contribute in them as well. And I am aspiring MERN Stack Developer and want to collaborate in those projects as well.
