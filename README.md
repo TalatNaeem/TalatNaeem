@@ -1,11 +1,27 @@
 ### 👋 Hi myself **Talat Naeem**!
 I am a Software Engineer. Passionate and enthusiast to explore my field. I love to work on development also like to commit and collaborate on GitHub. 😊
 
-### 🔭 **I’m currently working on** ...
+### 🔭 **I previosuly worked on** ...
 I along with my supervisor and team are crrently working on a bilingual translator using Transformer(Deep Learning NN Model) for translation from URDU to ENGLISH and vise versa using Python as programming language following the features of Natural Language Processing. For further details you can visit <a href="https://github.com/TalatNaeem/FYP-WiseTranslator" target="_blank" rel="noopener noreferrer">here</a>
 
+### 🔭 **I'm currently working on** ...
+- **Competitive Programming**
+	- C# ❤️
+	- C++
+	- Python
+	- Java
+	- Javascript
+	- Typescript
+
+<img align="right" src="https://github.com/mramra3004/mramra3004/blob/master/resources/Developer.gif"/>
+- **Web Development**
+    - ASP.NET Core
+    - ASP.NET MVC
+	  - HTML, CSS and Javascript :white_check_mark:
+    - React JS
+
 ### 👯 **I’m looking to collaborate on** ...
-Programming and development projects. I have also done work on machine/deep learning projects and like to contribute in them as well. And I am aspiring MERN Stack Developer and want to collaborate in those projects as well..
+Programming and development projects. I have also done work on machine/deep learning projects and like to contribute in them as well. And I am aspiring Full Stack Developer and want to collaborate in those projects as well..
 
 ### 🛠️ **My technical skills and technologies** ...
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
