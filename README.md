@@ -15,10 +15,12 @@ I along with my supervisor and team are crrently working on a bilingual translat
 
 <img align="right" src="https://github.com/mramra3004/mramra3004/blob/master/resources/Developer.gif"/>
 - **Web Development**
-    - ASP.NET Core
-    - ASP.NET MVC
-	  - HTML, CSS and Javascript :white_check_mark:
-    - React JS
+	- ASP .NET Core
+	- ASP .NET MVC
+	- React JS
+	- Javascript
+	- HTML & CSS
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
 ### 👯 **I’m looking to collaborate on** ...
 Programming and development projects. I have also done work on machine/deep learning projects and like to contribute in them as well. And I am aspiring Full Stack Developer and want to collaborate in those projects as well..
