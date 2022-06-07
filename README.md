@@ -22,6 +22,7 @@ I along with my supervisor and team are crrently working on a bilingual translat
 	- React JS
 	- Javascript
 	- HTML & CSS
+
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
 ### 👯 **I’m looking to collaborate on** ...
