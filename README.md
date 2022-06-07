@@ -14,7 +14,7 @@ I along with my supervisor and team are crrently working on a bilingual translat
 	- Typescript
 
 <img align="right" src="https://github.com/mramra3004/mramra3004/blob/master/resources/Developer.gif"/>
-- <p><b>Web Development</b></p>
+- **Web Development
 	- ASP .NET Core
 	- ASP .NET MVC
 	- React JS
