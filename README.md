@@ -37,15 +37,10 @@ Programming and development projects. Apart from my job I also work on side proj
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
 ![Node](https://img.shields.io/badge/-Node-000?style=flat-square&logo=nodedotjs)
 ![JUnit](https://img.shields.io/badge/-JUnit-000?style=flat-square&logo=junit5)
-![Maven](https://img.shields.io/badge/-Maven-000?style=flat-square&logo=apachemaven)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode)
-![Numpy](https://img.shields.io/badge/-Numpy-000?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=flat-square&logo=opencv)
-![Keras](https://img.shields.io/badge/-Keras-000?style=flat-square&logo=keras)
 
 
 <div align="left">
