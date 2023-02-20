@@ -28,7 +28,6 @@ Programming and development projects. Apart from my job I also work on side proj
 ### 🛠️ **My technical skills and technologies** ...
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
 ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C-000?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5)
